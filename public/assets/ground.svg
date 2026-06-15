@@ -1,0 +1,33 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="390" height="76" viewBox="0 0 390 76">
+  <rect width="390" height="76" fill="#6bd66b"/>
+  <path d="M0 0h390v18H0z" fill="#3eb95a"/>
+  <g fill="#2f9f4f">
+    <path d="M0 0h14L5 13z"/>
+    <path d="M26 0h14l-9 13z"/>
+    <path d="M52 0h14l-9 13z"/>
+    <path d="M78 0h14l-9 13z"/>
+    <path d="M104 0h14l-9 13z"/>
+    <path d="M130 0h14l-9 13z"/>
+    <path d="M156 0h14l-9 13z"/>
+    <path d="M182 0h14l-9 13z"/>
+    <path d="M208 0h14l-9 13z"/>
+    <path d="M234 0h14l-9 13z"/>
+    <path d="M260 0h14l-9 13z"/>
+    <path d="M286 0h14l-9 13z"/>
+    <path d="M312 0h14l-9 13z"/>
+    <path d="M338 0h14l-9 13z"/>
+    <path d="M364 0h14l-9 13z"/>
+  </g>
+  <rect y="18" width="390" height="58" fill="#f4d35e"/>
+  <g fill="#e5b947" opacity=".9">
+    <ellipse cx="0" cy="48" rx="17" ry="4"/>
+    <ellipse cx="44" cy="48" rx="17" ry="4"/>
+    <ellipse cx="88" cy="48" rx="17" ry="4"/>
+    <ellipse cx="132" cy="48" rx="17" ry="4"/>
+    <ellipse cx="176" cy="48" rx="17" ry="4"/>
+    <ellipse cx="220" cy="48" rx="17" ry="4"/>
+    <ellipse cx="264" cy="48" rx="17" ry="4"/>
+    <ellipse cx="308" cy="48" rx="17" ry="4"/>
+    <ellipse cx="352" cy="48" rx="17" ry="4"/>
+  </g>
+</svg>
